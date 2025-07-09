@@ -59,33 +59,22 @@
 * Feb. 23rd, 2020 at 10:02 PM
 
 ![](https://l-userpic.livejournal.com/104803654/19770500)  
-
 [![](//livejournal.naydex.net/1H60by364/497260EcSWN7/DuFfNSw-QfF9kQ8QC0RpjNeLerns9TDAQ38aPxok3s_sqnYimStK_9vP6N-zq5bxzpSA7Gl4fAou0lcVnJgA-pjnSVbpbjEyD1R8c5kUyYwHyuvYnsNCwyBJ283YgK98nEnVsquLqR3MyXrPQrx0xGjRp7lvfq8cmnfygT4Y4UjbtUtky83AIZ4U7XDLBqldNfqJKw9gg7MQiaq9KQOPvAwad7C7uWusXuo4fIEOJweY0YaInW0MDYmVUpKf6JNZSjS5ZLttA5Me549TmkR5TXfI-Dks83Di4AvLrvqy7gyeOBfSmempLu4Lmt9DzwaEyZHXOGzN3Y0697Fzb9lSWmrUiaZKHhJDnKUe0Nu1GL5WajrafXJDYTNpCl_40h0-X8ul0Jo5Of_-i9qfcJz3VxrzhKvfT309iTTis01qYksaZMiluCwjs03mfLG7Zni9dKooCx7ickKDOZg82mL9PJ1q1cI7aNkcfnmZDnGeJaZYEHVL3L893WslIWDuCBAK64U5dspecFGutHyw-aaZ7Sdbycmvc2OjUqrKv6lQb17sSDai-MqbHEzr-L6T7qaW66MnWp1-z06L1vNyzIsQKppXCmfLrNMjP4V9gNpm6z-3yLrqvRKCsWO6yG7bUSzNnNs0cepL-g3-u8i_cZ3klkjxV7jPL84s62aCkbxLEvrJxXjFKj9ic972b1E7dHlfZap7-axik2JROHut-BC_PMzpZnCJe8lunXo5TJNep6VJcoZ6jF79jPtmoDPtWtMbGSaKlvmtMyBsdpyC2gYbb3X4-MrNcMLhE3h6n7sDHbzsKefCSXooDs8ZWV_DPcdlKQGVuV6er3x71UKgrboCWkoFuFdIX9PybmUPMBt1ec42iDt4joNzIkCa-o8p8uw9XrkUgzg5OJ8c-ap_Qe40xQjw5zht7pwfKUbAMJ944JkadOsnG21i4k53PbPrt3nepjibyvzxYRCwmZs-SGMfHd1a1MI5ytltHvuqj1B_5-UJosaq7D_8LZuGg-McG4ArKVXpJqnPYnBPV96CqMRaHre4-nusUlCw0Iu5L4ghvx_PylSgu-oYPT8p2rwSf-dk2gFn-a99Xa-pp3FTTBoyCVk3uscqbBLBnkeNsbsUKQ7nq8vYfILjIbDKSc9Icp0-Dnu2cLn4y05vORr8Ao62lCjBRWj8jq5MqPVx4J3osjuqBUl0aG4QcU61nfCrtEvNh_l4SX2hwoBCyHmN6nBPvi7rpgKZmeuOnhmpzjB8ddVr4cVKvqz9f7m00xAMqUCIibc5VbiNw7Ad9GzSC3UZrDQIOLuNU0FCgLlYPSiC3c39mnUQa3oajs_pqSwTHDQG2JGkqKzMra-5JPNhXpkhaxvGq5TIblKAPBed88klu94G6VsZTHBQ4wM5SBxqIhzerFjG8pjbef8_CYr-Aawm5Urwxkh8nW3f2GSS8Y0qoKrZhOined5TsTxUTwD69su8lLn4OS1BkJCBuovfasCv3F6aRzLbKcvOH9nrjbP8NYdpU3XKvE4MLavHQlGuajIZamXJ16v8QbJttL5Ruja7DWZ4Gsp-05MBgEq6vVqzXpwt6XURaQl6bH56mkyT7scGaQDFKp5s_y3bRMHA_6ti-HrHu2aZfuET_nf_AauGCU1maptJrhKSEIEZ2_7qMN-uDWkHwStpeF-u-WicIJzWlXjzdokObw7-etXxIcyqQhkbdIkmql8SU4_Vn4CINNns5Vjoet9j8pMSmcm9eHJPrHyZhkA5OaofjooYjZLOJcRqwqbrHjztPShlEiOtWPC4ikUq9omfocG9Ro-z2repHze5yNrc0fLgcps6zMswXbyN2UQCCliJjuwqiU4DbNbXaRMXqU8Pv5065tBgrzpiKQvU2Zbq_CBD_VStEkpmiYxmyNkanLMCwLIpW--as38P7MhmcSlbiG7Ma9mvUn3mNmoSVfkcbu0vCGbRUB5ZgOlJ5rjUuX5AI1wmTwH6FontJZn4a41T4mBhadk_SDO-33xrdNDayMnNvdhYfmEPR4Yp8da4nj0N_at24wOtOAN6ibXrBdp_4bNcZZ0h6mRJbyeK-qucUpJRASiqTxhiv0yMWMfxayvqL485euxxHgTnCiHXGt8OjV_qxcEDf7gRShpFikX4fDGwPHbu0nt0S06EOooL7iCyYHN4uE36gS7Pz8oV8-komx_v6SiOcE62N1rjpIvf7K2e-UaCAewrYqiJxjk2qG_C0E5k7WJbVpodNApKS68goyGy-Znd6ACtvC5b99ALmphMbNqIz9MsBWVawec5TL39vxh1I3K_mJD7W-a71WuMcvA_95zhyqeaPjX7W1mdU2EQw5mpDKkwTW3PiRYRSTn7zf3aacyCnWSVuiKlWK8urexrBSIjvxozaEl021SLr_Bjv3VugLq3OrwHqhl6vzCioqJbms-aIBz-TgmEIuo4i47MizueQEyFdHiC1ZsNbS5tefThQw4KApt5FfqnqsxBsg2m7rDqZwm9FekqST0hcmFQinqduMM_DY2I9GKLWWt_jgkYfFO8tUV4s2f4_xy-zytm8vC_mlLbOleLdcl_wSDuNw5RGFQaL7fq-imO0rDgwXkq3lpzPM5eS7bgu9i4L77LS35AnlSFicMXmIy_7O2IhUJj_2qwygoVufeZ_aMhvobNEToXCn8G-TkZ31FgkjMoiF1a8G9srXmGkdsK6f5fycidU0_kt5lStZiODQ896QTxYp8aMyjp1wtkeCxTI5wWjxGqhLntNIjb-MzhwkDwiEvvqmJ8PD_aJ5MbC2leDmoZL0P_xWY4o5e73T2sz7kkw8O-K0C7K_apB2ito4AsBm0zymcarFRJeqtdYECDYJsb7uiCbe98W9SSGZgqH70KeJ6BDAaXC7NluaxNrD8pBUHADkmg6opXy7cbj6Gyf1U-snkWek6GGTjJTnMDgwGrqs6q0F1sHLs3g3np2Jx_K7m_U-90BAoTlYvNbTwdK2Rwss9a8yi51VtFm80AYHy3fyG6dmp_puvKaG1TchKAumhu6iC_7c_5hMMb-Nlejvl5HEBMBfbLU0UIfU0dT5sEguA9auAoiVYJQ)](https://skif-tag.livejournal.com/profile) [**skif\_tag**](https://skif-tag.livejournal.com/)
 
 Сегодня, наверное, всё про армию да про войну?  
-
 Телек щёлкал - на "Культуре" старый фильм про адмирала Ушакова.  
-
 Больше всего понравилось, как Фёдор Ушаков как мальчишку отчитывал адмирала Нельсона)  
-
 А по Первому, конечно же, крутили "Офицеров". Терпеть не могу этот фильм - но скорее это реакция на массовое умиление пафосными шаблонами...  
-
 Ну, собственно, его и снимали по заказу генералов и с их поправками и пожеланиями.  
-
 Но несмотря на всё это, фильм, конечно местами интересен. Ведь главная мысль, это некая красная нить "Есть такая профессия - Родину защищать" из уст царского офицера и далее от поколения к поколению.  
-
 А как же быть с первородным грехом РККА, которая как раз 23 февраля и отмечает День рождение? Т.е. не является правоприемницей, и даже более того - началась с уничтожения цвета офицерства русской армии?  
 
 И вот тут создатели фильма сделали блестящий по своей элегантности ход - их герои не могут НЕ участвовать в Гражданской войне, но мы не видим в их прицеле "белых", старых русских офицеров, они воюют в Туркестане с басмачами. Ну, т.е. бить чурок можно без вреда для генеральной линии сюжета фильма.))  
 
 Интересно, что потом оба героя постоянно "защищают родину" где-то очень вдали от дома - в Китае, в Испании.  
-
 И как это назвать?  
-
 С периодом ВОВ всё более-менее понятно, потом тоже... Но только интересная деталь - как же им, кадровым военным, удалось проскочить сквозь мясорубку репрессий целёхонькими?  
-
 А вот тут один из создателей фильма, Борис Васильев, поясняет:  
-
 *"…в окончательном варианте «Офицеров» есть накладка: ну как это — два генерала, ровесники и друзья детства, встречаются, и вдруг один с изумлением: «Ты?!» Почему он удивляется, что друг-то здесь, что он жив? Или эти друзья-генералы не интересовались судьбой друг друга? Да просто оба сидели — и оба уцелели в той мясорубке. Вот чему он удивляется… "*  
 
 А, ну тогда понятно.  
@@ -128,13 +117,9 @@
 Feb. 23rd, 2020 08:03 pm (UTC)
 
 Здравствуйте!  
-
 Система категоризации Живого Журнала посчитала, что вашу запись можно отнести к категории: [Кино](https://www.livejournal.com/category/kino?utm_source=frank_comment) .  
-
 Если вы считаете, что система ошиблась — напишите об этом в ответе на этот комментарий. Ваша обратная связь поможет сделать систему точнее.  
-
 Фрэнк,  
-
 команда ЖЖ.
 
 [Link](https://skif-tag.livejournal.com/3589711.html?thread=48611663#t48611663) | [Reply](https://skif-tag.livejournal.com/3589711.html?replyto=48611663) | [Thread](https://skif-tag.livejournal.com/3589711.html?thread=48611663#t48611663) |
@@ -158,17 +143,12 @@ Feb. 24th, 2020 05:36 am (UTC)
 ...  
 
 "Больше всего понравилось, как Фёдор Ушаков  
-
 как мальчишку отчитывал адмирала Нельсона"  
 
 Да.  
-
 Эта сцена, конечно - "шедевр".  
-
 Кстати, в первом фильме про Ушакова снимался мой дед.  
-
 Маленькая эпизодическая роль, но даже со словами.  
-
 Снимали в Одессе, по-моему, 1953 год.  
 
 ...
@@ -721,4 +701,4 @@ Designed by [Lilia Ahner](http://lilia.vox.com/)
 
 # [LJ Magazine](https://www.livejournal.com/magazine)
 
-[Recommend this entry](javascript:void\(0\);) Has been recommended [Send news](#)
+[Recommend this entry](javascript:void%280%29;) Has been recommended [Send news](#)

@@ -57,9 +57,10 @@ def test_html(case: str) -> None:
     result = markdown_to_html(src_html)
     result = _prettify_html(result, "body")
 
-    # if result != expected:
-    #     (test_path / "markdown_to_html" / f"{case}_.html").write_text("\n".join(result))
-    # elif (test_path / "markdown_to_html" / f"{case}_.html").exists():
-    #     (test_path / "markdown_to_html" / f"{case}_.html").unlink()
+    dbg_path = test_path / "markdown_to_html" / f"{case}_.html"
+    if result != expected:
+        dbg_path.write_text("\n".join(result))
+    elif dbg_path.exists():
+        dbg_path.unlink()
 
     assert expected == result

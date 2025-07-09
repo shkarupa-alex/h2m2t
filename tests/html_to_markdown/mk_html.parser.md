@@ -173,15 +173,12 @@
 
 Волгоград
 
-[МК в регионах](javascript:void\(0\)) 3 марта 2020  
-
+[МК в регионах](javascript:void%280%29) 3 марта 2020  
 время 21:06
 
 [Свежий номер](https://www.mk.ru/daily/newspaper/)  
-
 [Подписка на МК](//www.mk.ru/subscription/)  
-
-[Вход](javascript: void\(0\);)
+[Вход](javascript:%20void%280%29;)
 
 Что вы хотите найти?   
 
@@ -196,7 +193,6 @@
 * [МК в Facebook](https://www.facebook.com/volg.mk.ru)
 
 [Новости](/news/)  
-
 [Свежий номер](https://www.mk.ru/daily/newspaper/)
 
 Курс ЦБ
@@ -219,11 +215,11 @@
 
 19
 
-[все верно](javascript:void\(0\);) [другой](javascript:void\(0\);)
+[все верно](javascript:void%280%29;) [другой](javascript:void%280%29;)
 
 Хотите сразу и абсолютно бесплатно получать важные новости «МК»?
 
-[Да](https://push.mk.ru/) [Напомнить позже](javascript:void\(0\);)
+[Да](https://push.mk.ru/) [Напомнить позже](javascript:void%280%29;)
 
 Что вы хотите найти?  
 
@@ -242,7 +238,7 @@
 * [Свободная тема](//www.mk.ru/specprojects/free-theme/)
 * [Пресс-центр](//www.mk.ru/press-center/)
 
-[Спецпроекты](javascript:void\(0\);)  
+[Спецпроекты](javascript:void%280%29;)  
 
 * [Онлайн-игра](https://www.mk.ru/projects/komandirovka-k-maniaku/)
 * [Дни рождения](https://www.mk.ru/stories/daty/)

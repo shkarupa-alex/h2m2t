@@ -208,9 +208,9 @@
 
 Лента новостей
 
-[Курс доллара на 4 марта  	  	  	USD ЦБ: 66,44 (+0,12)   Quote, 12:22](https://quote.rbc.ru/exchanges/info/cb.0/72413/eod)
+[Курс доллара на 4 марта  	USD ЦБ: 66,44 (+0,12)   Quote, 12:22](https://quote.rbc.ru/exchanges/info/cb.0/72413/eod)
 
-[Курс евро на 4 марта  	  	  	EUR ЦБ: 73,94 (+0,52)   Quote, 12:22](https://quote.rbc.ru/exchanges/info/cb.0/72383/eod)
+[Курс евро на 4 марта  	EUR ЦБ: 73,94 (+0,52)   Quote, 12:22](https://quote.rbc.ru/exchanges/info/cb.0/72383/eod)
 
 [Трамп выступил за еще большее снижение ставки ФРС США Политика, 21:02](https://www.rbc.ru/rbcfreenews/5e5e96669a79474a1fa23d93?from=newsfeed)     [Bloomberg узнал о поручении Мишустина восстановить связи России с ОЭСР Политика, 20:57](https://www.rbc.ru/politics/03/03/2020/5e5e8a009a794745af5bcc10?from=newsfeed)     [СК предложил внести конфискацию имущества коррупционеров в Конституцию Политика, 20:41](https://www.rbc.ru/rbcfreenews/5e5e94e99a7947497abc73a9?from=newsfeed)      
 

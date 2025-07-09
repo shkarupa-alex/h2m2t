@@ -47,15 +47,13 @@ No account? [Create an account](https://www.livejournal.com/create "Create an ac
 
 ![](https://l-userpic.livejournal.com/104803654/19770500 "skif_tag: pic#104803654")
 :   skif\_tag ( [![](https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080?v=385)](https://skif-tag.livejournal.com/profile) [**skif\_tag**](https://skif-tag.livejournal.com/) ) wrote,      
-
     [2020](https://skif-tag.livejournal.com/2020/) - [02](https://skif-tag.livejournal.com/2020/02/) - [23](https://skif-tag.livejournal.com/2020/02/23/) 22:02:00
 
     skif\_tag  
-
     [![](https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080?v=385)](https://skif-tag.livejournal.com/profile) [**skif\_tag**](https://skif-tag.livejournal.com/)
 
 * [Previous](https://www.livejournal.com/go.bml?journal=skif_tag&itemid=3589711&dir=prev "Previous")
-* [Share](javascript:void\(0\); "Share")
+* [Share](javascript:void%280%29; "Share")
 * [Flag](https://www.livejournal.com/tools/content_flag.bml?user=skif_tag&itemid=3589711 "Flag")
 * [Next](https://www.livejournal.com/go.bml?journal=skif_tag&itemid=3589711&dir=next "Next")
 
@@ -67,29 +65,19 @@ Category:
 # Праздничный агитпроп
 
 Сегодня, наверное, всё про армию да про войну?  
-
 Телек щёлкал - на "Культуре" старый фильм про адмирала Ушакова.  
-
 Больше всего понравилось, как Фёдор Ушаков как мальчишку отчитывал адмирала Нельсона)  
-
 А по Первому, конечно же, крутили "Офицеров". Терпеть не могу этот фильм - но скорее это реакция на массовое умиление пафосными шаблонами...  
-
 Ну, собственно, его и снимали по заказу генералов и с их поправками и пожеланиями.  
-
 Но несмотря на всё это, фильм, конечно местами интересен. Ведь главная мысль, это некая красная нить "Есть такая профессия - Родину защищать" из уст царского офицера и далее от поколения к поколению.  
-
 А как же быть с первородным грехом РККА, которая как раз 23 февраля и отмечает День рождение? Т.е. не является правоприемницей, и даже более того - началась с уничтожения цвета офицерства русской армии?  
 
 И вот тут создатели фильма сделали блестящий по своей элегантности ход - их герои не могут НЕ участвовать в Гражданской войне, но мы не видим в их прицеле "белых", старых русских офицеров, они воюют в Туркестане с басмачами. Ну, т.е. бить чурок можно без вреда для генеральной линии сюжета фильма.))  
 
 Интересно, что потом оба героя постоянно "защищают родину" где-то очень вдали от дома - в Китае, в Испании.  
-
 И как это назвать?  
-
 С периодом ВОВ всё более-менее понятно, потом тоже... Но только интересная деталь - как же им, кадровым военным, удалось проскочить сквозь мясорубку репрессий целёхонькими?  
-
 А вот тут один из создателей фильма, Борис Васильев, поясняет:  
-
 *"…в окончательном варианте «Офицеров» есть накладка: ну как это — два генерала, ровесники и друзья детства, встречаются, и вдруг один с изумлением: «Ты?!» Почему он удивляется, что друг-то здесь, что он жив? Или эти друзья-генералы не интересовались судьбой друг друга? Да просто оба сидели — и оба уцелели в той мясорубке. Вот чему он удивляется… "*  
 
 А, ну тогда понятно.  
@@ -126,7 +114,7 @@ Category:
   + We will log you in after post
   + Anonymously
 
-  [switch](javascript:void\(0\);)  
+  [switch](javascript:void%280%29;)  
 
   + [LiveJournal](#user)
   + [Facebook](#facebook)
@@ -144,7 +132,6 @@ Category:
   Your IP address will be recorded
 
   When you submit the form an invisible reCAPTCHA check will be performed.  
-
   You must follow the [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and Google [Terms of use](https://www.google.com/intl/en/policies/terms/) .
 
   Post a new comment

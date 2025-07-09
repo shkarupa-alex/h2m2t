@@ -252,10 +252,11 @@ def _fix_block(soup: BeautifulSoup) -> None:
         _fix_block_right(node)
 
         # Split block element
-        if node.name not in child_tags and node.previous_sibling:
-            node.insert_before(soup.new_tag("br"))
-        if node.name not in child_tags and node.next_sibling:
-            node.insert_after(soup.new_tag("br"))
+        if node.name != "br" and node.name not in child_tags:
+            if node.previous_sibling:
+                node.insert_before(soup.new_tag("br"))
+            if node.next_sibling:
+                node.insert_after(soup.new_tag("br"))
 
 
 def _fix_block_left(node: Tag) -> None:

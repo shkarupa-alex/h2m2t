@@ -56,6 +56,12 @@ def test_span(parser: str, case: str, deduplicate: bool, root: str = "table", un
     tables_to_dense(soup, deduplicate=deduplicate, unwrap=unwrap)
     result = _prettify_html(str(soup), root)
 
+    dbg_path = test_path / f"{case}_{deduplicate}_.html"
+    if result != expected:
+        dbg_path.write_text("\n".join(result))
+    elif dbg_path.exists():
+        dbg_path.unlink()
+
     assert expected == result
 
 

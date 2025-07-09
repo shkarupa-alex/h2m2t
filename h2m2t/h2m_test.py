@@ -53,9 +53,10 @@ def test_md(parser: str, case: str) -> None:
 
     result = html_to_markdown(src_html, parser)
 
-    # if result != expected:
-    #     (test_path / f"{case}_{parser}_.md").write_text(result)
-    # elif (test_path / f"{case}_{parser}_.md").exists():
-    #     (test_path / f"{case}_{parser}_.md").unlink()
+    dbg_path = test_path / f"{case}_{parser}_.md"
+    if result != expected:
+        dbg_path.write_text(result)
+    elif dbg_path.exists():
+        dbg_path.unlink()
 
     assert expected.splitlines() == result.splitlines()
