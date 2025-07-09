@@ -1,0 +1,1 @@
+![](//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
