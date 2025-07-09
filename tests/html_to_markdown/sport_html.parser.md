@@ -11,11 +11,11 @@
 * Карта спорта
 * Турниры
 
-* [Читай новый  	  	  	номер газеты](//www.sport-express.ru/newspaper/download/)
+* [Читай новый  	номер газеты](//www.sport-express.ru/newspaper/download/)
 
-* [Подписка  	  	  	на газету](//www.sport-express.ru/subscribe/)
+* [Подписка  	на газету](//www.sport-express.ru/subscribe/)
 
-* [Новостная  	  	  	рассылка](//www.sport-express.ru/company/subscribe/)
+* [Новостная  	рассылка](//www.sport-express.ru/company/subscribe/)
 
 * [Новости](https://www.sport-express.ru/news/)
 * [Матч-центр](https://www.sport-express.ru/live/)
@@ -84,16 +84,15 @@
 * [День с Алексеем Шевченко](https://www.sport-express.ru/video/den-s-alekseem-shevchenko/materials/)
 * [Начистоту](https://www.sport-express.ru/video/frankly/materials/)
 
-* [Facebook  	  	  	/SportExpressNews](https://www.facebook.com/SportExpressNews)
-* [Vkontakte  	  	  	/sportexpress](https://vk.com/sportexpress)
-* [Telegram  	  	  	@sportexpress](https://t.me/sportexpress)
-* [Twitter  	  	  	/sportexpress](https://twitter.com/sportexpress)
-* [Одноклассники  	  	  	/sportexpress](https://ok.ru/sportexpress)
-* [Instagram  	  	  	/sport\_express](https://www.instagram.com/sport_express/)
-* [YouTubе канал  	  	  	«Спорт-Экспресс»](https://www.youtube.com/user/sportexpress)
+* [Facebook  	/SportExpressNews](https://www.facebook.com/SportExpressNews)
+* [Vkontakte  	/sportexpress](https://vk.com/sportexpress)
+* [Telegram  	@sportexpress](https://t.me/sportexpress)
+* [Twitter  	/sportexpress](https://twitter.com/sportexpress)
+* [Одноклассники  	/sportexpress](https://ok.ru/sportexpress)
+* [Instagram  	/sport\_express](https://www.instagram.com/sport_express/)
+* [YouTubе канал  	«Спорт-Экспресс»](https://www.youtube.com/user/sportexpress)
 
 Новостные каналы:  
-
 RSS, T-bot, Zen
 
 Летние виды спорта
@@ -250,15 +249,12 @@ RSS, T-bot, Zen
 [42](#comment_form)     
 
 Копировать  
-
 ссылку
 
 Отправить  
-
 на почту
 
 Печать  
-
 страницы
 
 # МОК признался в подделке подписей Родченкова. Что это значит
@@ -313,7 +309,6 @@ RSS, T-bot, Zen
 Можно называть аффидевиты беглого ученого «записками сумасшедшего» (как это делает Ольга Зайцева), но суд продолжает относиться к его показаниям всерьез. И нет никаких оснований думать, что в будущем разоблачительный уклон в свидетельствах Родченкова поменяется. Они могут всплыть, например, во время будущих процессов по делу спортсменов из базы данных Московской лаборатории. Однако очевидно, что у наших адвокатов постепенно появляется во всех этих делах определенный опыт. И то, что они, наконец, вышли из глухой обороны, радует, независимо от того, какой вердикт по биатлонному делу мы в итоге получим. Ведь общеизвестно, что лучшая защита — это нападение.
 
 Выделите ошибку в тексте  
-
 и нажмите ctrl + enter
 
 ## Нашли ошибку?
@@ -450,15 +445,12 @@ vs
 Контакты
 
 Партийный пер.1, корпус 57, строение 1, этаж 3  
-
 Москва, 115093
 
 Телефон редакции:  
-
 [+7 (495) 540-70-10](tel:74955407010)
 
 Написать в редакцию:  
-
 [feedback@sport-express.ru](mailto:feedback@sport-express.ru)
 
 Электронное периодическое издание «Спорт-Экспресс Интернет». Свидетельство СМИ: Эл № ФС77-77886 от 10.02.2020 года

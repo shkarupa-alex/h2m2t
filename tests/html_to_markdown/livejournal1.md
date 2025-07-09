@@ -58,7 +58,6 @@
 ### [В Люксембурге общественный транспорт сделали бесплатным. А вам слабо?](https://varlamov.ru/3810526.html)
 
 ![](https://varlamov.me/2020/luxembourg_transport/03.jpg)  
-
 *Фото: Yury LRTA / [TransPhoto](https://transphoto.org/photo/1281484/?vid=449026)*  
 
 Каждый крупный город мира сталкивается с проблемой пробок, с загруженностью дорог, что в конечном итоге потом выливается в плохую экологию, огромную потерю времени и денег. И этот вопрос надо как-то решать. В прошлом веке считалось, что будущее за автомобилем, поэтому тогда массово занимались строительством дорог и возведением новых развязок, причем часто в ущерб общественному транспорту. Например, в 50-60 гг во многих европейских и американских городах были уничтожены трамвайные системы, а на их месте появились эстакады и новые полосы для автомобилей. В России до сих пор часто применяют такие методы, и многие наши города радостно рапортуют о " [дорожных революциях](https://varlamov.ru/3504013.html) ", то есть, несмотря на международный опыт, у нас города продолжают расширять дороги, тем самым еще больше провоцируя автомобилизацию и пробки.  
@@ -70,17 +69,14 @@
 По замыслу властей этот шаг должен помочь разгрузить дороги страны от автомобилей. В самой столице проживают 110 тыс. человек, население всего герцогства составляет 614 тыс. жителей. Однако ежедневно порядка 200 тысяч человек из Германии, Франции, Бельгии ездят на работу в Люксембург, то есть каждый день количество людей в стране увеличивается почти на треть.  
 
 ![](https://varlamov.me/2020/luxembourg_transport/01.jpg)  
-
 *Источник: [geosfera.org](https://geosfera.org/evropa/lyuksemburg/90-lyuksemburg-velikoe-gercogstvo.html)*  
 
 Люксембург шел к этой идее постепенно. Ранее были введены льготы для молодежи, а также для «постоянных пассажиров». Но в стране транспорт не только бесплатный, но и удобный. Власти последовательно развивают систему общественного транспорта уже много лет. В середине 2017 года [пустили](https://varlamov.ru/2474559.html) трамвай – спустя 53 года после его уничтожения. По герцогству ходит транспорт, приспособленный для маломобильного населения. Да и инвестируют в общественный транспорт здесь в размере 660 евро на человека в год, что является самым высоким показателем в Европе.  
 
 ![](https://varlamov.me/2020/luxembourg_transport/00.jpg)  
-
 *Фото: Yury LRTA / [TransPhoto](https://transphoto.org/photo/1282649/?vid=489063)*  
 
 ![](https://varlamov.me/2020/luxembourg_transport/02.jpg)  
-
 *Фото: Yury LRTA / [TransPhoto](https://transphoto.org/photo/1282650/?vid=449026)*  
 
 А к 2030 году власти планируют перейти на полностью электрифицированный парк автобусов.  
@@ -134,8 +130,8 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 
 * [Комментарии (176)](https://varlamov.ru/3810526.html "Комментарии (176)")
 * [Оставить комментарий](https://varlamov.ru/3810526.html?mode=reply#add_comment)
-* [WhatsApp](whatsapp://send?text=%D0%92%20%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%BC.%20%D0%90%20%D0%B2%D0%B0%D0%BC%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%3F https%3A%2F%2Fvarlamov.ru%2F3810526.html "Поделиться в WhatsApp")
-* [Viber](viber://forward?text=%D0%92%20%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%BC.%20%D0%90%20%D0%B2%D0%B0%D0%BC%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%3F https%3A%2F%2Fvarlamov.ru%2F3810526.html "Поделиться в Viber")
+* [WhatsApp](whatsapp://send?text=%D0%92%20%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%BC.%20%D0%90%20%D0%B2%D0%B0%D0%BC%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%3F%20https%3A%2F%2Fvarlamov.ru%2F3810526.html "Поделиться в WhatsApp")
+* [Viber](viber://forward?text=%D0%92%20%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%BC.%20%D0%90%20%D0%B2%D0%B0%D0%BC%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%3F%20https%3A%2F%2Fvarlamov.ru%2F3810526.html "Поделиться в Viber")
 * [Telegram](https://telegram.me/share/url?url=https%3A%2F%2Fvarlamov.ru%2F3810526.html "Поделиться в Telegram")
 * [Поделиться](https://www.livejournal.com/update.bml?repost_type=c&repost=https://varlamov.ru/3810526.html&nodraft=1 "Поделиться")
 
@@ -218,8 +214,8 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 
 [вперёд →](https://varlamov.ru/3810526.html?page=2#comments)
 
-* [Комментарии по времени](javascript:void\(0\);)
-* [По рейтингу](javascript:void\(0\);)
+* [Комментарии по времени](javascript:void%280%29;)
+* [По рейтингу](javascript:void%280%29;)
 
 ![](https://l-userpic.livejournal.com/128362955/7996855)
 
@@ -370,7 +366,6 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 1 марта 2020 , 15:28
 
 Эвакуировался ?  
-
 Кросаучег, чо.
 
 * [Ответить](https://varlamov.ru/3810526.html?replyto=1063373278)
@@ -478,7 +473,6 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 1 марта 2020 , 14:44
 
 Ягель же нонче дорог!!,  
-
 А в Мск вовсю продолжали строить эстакады...
 
 * [Ответить](https://varlamov.ru/3810526.html?replyto=1063362526)
@@ -669,9 +663,7 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 1 марта 2020 , 15:00
 
 А вам слабо?  
-
 Конечно, да. Как можно сравнивать маленькое государство с численностью населения, сравнимого с провинциальным городом и одну шестую Часть суши. Разумеется, в первом случае гораздо легче навести порядок в стране.  
-
 А нам остается только утешиться своим территориальным величием. Больше гордиться нечем  
 
 *Edited at 2020-03-01 15:01 (UTC)*
@@ -731,14 +723,14 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 
   Tags [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81) , [Люксембург](https://varlamov.ru/tag/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3) , [Общественный транспорт](https://varlamov.ru/tag/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82) , [Поезда](https://varlamov.ru/tag/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0) , [Трамвай](https://varlamov.ru/tag/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9)
 
-  [Поделиться](javascript:void\(0\); "Поделиться")
+  [Поделиться](javascript:void%280%29; "Поделиться")
 * 19 июля 2017  
 
   **[Они вернули себе трамвай... а вы нет!](https://varlamov.ru/2474559.html)**
 
   Tags [Европа](https://varlamov.ru/tag/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0) , [Люксембург](https://varlamov.ru/tag/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3) , [Общественный транспорт](https://varlamov.ru/tag/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82) , [Трамвай](https://varlamov.ru/tag/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9)
 
-  [Поделиться](javascript:void\(0\); "Поделиться")
+  [Поделиться](javascript:void%280%29; "Поделиться")
 
 * 4 мая 2019  
 
@@ -746,21 +738,21 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 
   Tags [Мост](https://varlamov.ru/tag/%D0%9C%D0%BE%D1%81%D1%82) , [Поезда](https://varlamov.ru/tag/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0) , [Путевые Заметки](https://varlamov.ru/tag/%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8) , [Рынок](https://varlamov.ru/tag/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA) , [Токио](https://varlamov.ru/tag/%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE) , [Япония](https://varlamov.ru/tag/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F)
 
-  [Поделиться](javascript:void\(0\); "Поделиться")
+  [Поделиться](javascript:void%280%29; "Поделиться")
 * 20 февраля 2020 , 21:42  
 
   **[Ночной кошмар в поезде](https://varlamov.ru/3798559.html)**
 
   Tags [Вокзал](https://varlamov.ru/tag/%D0%92%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB) , [Москва](https://varlamov.ru/tag/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0) , [Поезда](https://varlamov.ru/tag/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0) , [Путешествие](https://varlamov.ru/tag/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5) , [Санкт-Петербург](https://varlamov.ru/tag/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)
 
-  [Поделиться](javascript:void\(0\); "Поделиться")
+  [Поделиться](javascript:void%280%29; "Поделиться")
 * 1 мая 2019  
 
   **[Инновация, которую не покажут Путину](https://varlamov.ru/3421065.html)**
 
   Tags [Будущее](https://varlamov.ru/tag/%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5) , [Инновации](https://varlamov.ru/tag/%D0%98%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8) , [Муром](https://varlamov.ru/tag/%D0%9C%D1%83%D1%80%D0%BE%D0%BC) , [Поезда](https://varlamov.ru/tag/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0) , [РЖД](https://varlamov.ru/tag/%D0%A0%D0%96%D0%94) , [Россия](https://varlamov.ru/tag/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F) , [Традиции](https://varlamov.ru/tag/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%B8)
 
-  [Поделиться](javascript:void\(0\); "Поделиться")
+  [Поделиться](javascript:void%280%29; "Поделиться")
 
 ### Последние посты
 
@@ -900,6 +892,6 @@ Tags: [Автобус](https://varlamov.ru/tag/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1
 * [Про бан](//varlamov.ru/566268.html)
 * [Чем я занимаюсь](//varlamov.ru/493817.html)
 
-[Разработано  	  	  	в студии Облако](http://oblakostudio.com)
+[Разработано  	в студии Облако](http://oblakostudio.com)
 
 ![](https://varlamov.ru/ljcounter/?d=srv:kr-ws10,r:0,j:10761149,p:10761149,uri:%22%2F3810526.html%22,ref:%22https:%2F%2Fvarlamov.ru%2F%22,vig:0,v:1,extra:AKQzvQCkM70AOiTe) ![](//ads.adfox.ru/171817/tracePoint?p7=mgon&p8=m)

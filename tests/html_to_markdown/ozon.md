@@ -180,14 +180,13 @@ c Ozon Картой
 
 Стало дешевле
 
-[0 ₽ сегодня	  	в Ozon Рассрочку  	  	  	платеж ≈103 ₽ в месяц](https://www.ozon.ru/section/limit)
+[0 ₽ сегодня	  	в Ozon Рассрочку  	платеж ≈103 ₽ в месяц](https://www.ozon.ru/section/limit)
 
 Добавить в корзину
 
 ![](https://ir-3.ozone.ru/s3/multimedia-g/wc100/6874469692.jpg)
 
 Есть дешевле  
-
 от 194 ₽  
 
 50

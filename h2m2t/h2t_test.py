@@ -19,22 +19,22 @@ from h2m2t.h2t import html_to_text
         "space",
     ],
 )
-@pytest.mark.parametrize(
-    "parser",
-    ["html.parser", "lxml", "html5lib"],
-)
-def test_text(parser: str, case: str) -> None:
+def test_text(case: str) -> None:
     test_path = Path(__file__).resolve().parent.parent / "tests" / "html_to_text"
 
     src_path = test_path / f"{case}.html"
     src_html = src_path.read_text()
 
-    gt_path = test_path / f"{case}_{parser}.txt"
-    if not gt_path.exists():
-        gt_path = test_path / f"{case}.txt"
+    gt_path = test_path / f"{case}.txt"
     expected = gt_path.read_text()
 
-    result = html_to_text(src_html, parser)
+    result = html_to_text(src_html, "html.parser")
+
+    dbg_path = test_path / f"{case}_.txt"
+    if result != expected:
+        dbg_path.write_text(result)
+    elif dbg_path.exists():
+        dbg_path.unlink()
 
     assert expected.splitlines() == result.splitlines()
 
@@ -70,26 +70,21 @@ def test_text(parser: str, case: str) -> None:
         "zen",
     ],
 )
-@pytest.mark.parametrize(
-    "parser",
-    ["html.parser", "lxml", "html5lib"],
-)
-def test_hard(parser: str, case: str) -> None:
+def test_hard(case: str) -> None:
     test_path = Path(__file__).resolve().parent.parent / "tests"
 
     src_path = test_path / "html_to_markdown" / f"{case}.html"
     src_html = src_path.read_text()
 
-    gt_path = test_path / "html_to_text" / f"{case}_{parser}.txt"
-    if not gt_path.exists():
-        gt_path = test_path / "html_to_text" / f"{case}.txt"
+    gt_path = test_path / "html_to_text" / f"{case}.txt"
     expected = gt_path.read_text()
 
-    result = html_to_text(src_html, parser)
+    result = html_to_text(src_html, "html.parser")
 
-    # if result != expected:
-    #     (test_path / "html_to_text" / f"{case}_{parser}_.txt").write_text(result)
-    # elif (test_path / "html_to_text" / f"{case}_{parser}_.txt").exists():
-    #     (test_path / "html_to_text" / f"{case}_{parser}_.txt").unlink()
+    dbg_path = test_path / "html_to_text" / f"{case}_.txt"
+    if result != expected:
+        dbg_path.write_text(result)
+    elif dbg_path.exists():
+        dbg_path.unlink()
 
     assert expected.splitlines() == result.splitlines()

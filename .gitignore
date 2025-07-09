@@ -107,3 +107,7 @@ ENV/
 *.pyc
 *.swp
 *.whl
+
+*_.html
+*_.md
+*_.txt

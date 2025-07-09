@@ -111,8 +111,8 @@ class MarkdownConverterFixed(MarkdownConverter):
         self.strip_attr(el, "title")
         self.strip_attr(el, "href")
 
-        href = el.attrs["href"]
-        href = href.replace("(", "\\(").replace(")", "\\)")
+        href = el.attrs["href"].replace(" ", "%20")
+        href = href.replace("(", "%28").replace(")", "%29")
         el.attrs["href"] = href
 
         text = re.sub("\n+", "\t", text).strip()

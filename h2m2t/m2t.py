@@ -120,7 +120,8 @@ class TextRenderer(BaseRenderer):
         return f"\n\n{text}\n\n"
 
     def block_html(self, html: str) -> str:
-        return BeautifulSoup(html, self._html_parser).get_text(separator=" ") + "\n"
+        text = BeautifulSoup(html, self._html_parser).get_text(separator=" ")
+        return f"\n\n{text.strip()}\n\n"
 
     def block_error(self, text: str) -> str:
         return f"\n\n{text}\n\n"
@@ -129,7 +130,7 @@ class TextRenderer(BaseRenderer):
         return f"\n\n{text}\n\n"
 
     def list_item(self, text: str) -> str:
-        return f"{text}\n"
+        return f"{text.strip()}\n"
 
     # strikethrough
     def strikethrough(self, text: str) -> str:
@@ -140,7 +141,7 @@ class TextRenderer(BaseRenderer):
         return ""
 
     def footnote_item(self, text: str, index: int) -> str:
-        return f"{text}\n"
+        return f"{text.strip()}\n"
 
     def footnotes(self, text: str) -> str:
         return f"\n\n{text}\n\n"
@@ -159,7 +160,7 @@ class TextRenderer(BaseRenderer):
         return f"{text}\n"
 
     def table_cell(self, text: str, align: str | None = None, head: bool = False) -> str:
-        return f"\t{text}\t"
+        return f"\t{text.strip()}\t"
 
     # - speedup
 
@@ -167,17 +168,17 @@ class TextRenderer(BaseRenderer):
 
     # task_lists
     def task_list_item(self, text: str) -> str:
-        return f"\n{text}\n"
+        return f"{text.strip()}\n"
 
     # def_list
     def def_list(self, text: str) -> str:
         return f"\n\n{text}\n\n"
 
     def def_list_head(self, text: str) -> str:
-        return f"{text}\n"
+        return f"{text.strip()}\n"
 
     def def_list_item(self, text: str) -> str:
-        return f"{text}\n"
+        return f"{text.strip()}\n"
 
     # abbr
     def abbr(self, text: str, title: str) -> str:

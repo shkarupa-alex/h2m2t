@@ -160,7 +160,7 @@ Masterhost уведомил клиентов о сбоях в работе из-
 
 [Комментарии](#comments)   
 
-[Печать](javascript:window.print\(\))
+[Печать](javascript:window.print%28%29)
 
 Самое важное в канале Коммерсантъ на [Яндекс](https://yandex.ru/chat/#/join/2c2f0d72-27c3-4c75-87ca-caa99e5b7906)
 
