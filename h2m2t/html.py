@@ -131,6 +131,7 @@ child_tags = [
 
 def fix_html_tree(soup: BeautifulSoup) -> None:
     _drop_meaningless(soup)
+    _unwrap_nested_tables(soup)
     _fix_spaces(soup)
     _fix_newlines(soup)
     _fix_inline(soup)
@@ -148,6 +149,25 @@ def _drop_meaningless(soup: BeautifulSoup) -> None:
     for comment in soup(string=lambda s: isinstance(s, Comment)):
         _merge_siblings(comment)
         comment.decompose()
+
+
+def _unwrap_nested_tables(soup: BeautifulSoup) -> None:
+    for table in soup("table"):
+        if not table("table"):
+            continue
+
+        nodes = [table]
+        for body in table(["thead", "tbody", "tfoot"], recursive=False):
+            nodes.append(body)
+            for row in body("tr", recursive=False):
+                nodes.append(row)
+                nodes.extend(row(["td", "th"], recursive=False))
+        for row in table("tr", recursive=False):
+            nodes.append(row)
+            nodes.extend(row(["td", "th"], recursive=False))
+
+        for node in nodes:
+            node.name = "div"
 
 
 def _fix_spaces(soup: BeautifulSoup) -> None:

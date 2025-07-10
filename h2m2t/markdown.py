@@ -3,8 +3,16 @@ from collections.abc import Callable
 
 from bs4 import Tag
 from markdownify import MarkdownConverter
+from mistune import HTMLRenderer
 
 from h2m2t.text import replace_rare_spaces
+
+
+class HTMLRendererFixed(HTMLRenderer):
+    def link(self, text: str, url: str, title: str | None = None) -> str:
+        url = url.replace("%20", " ")
+        url = url.replace("%28", "(").replace("%29", ")")
+        return super().link(text, url, title)
 
 
 class MarkdownConverterFixed(MarkdownConverter):
@@ -39,6 +47,10 @@ class MarkdownConverterFixed(MarkdownConverter):
 
     def process_text(self, el: Tag, parent_tags: set[str] | None = None) -> str:
         text = super().process_text(el, parent_tags)
+
+        if "code" not in parent_tags and "pre" not in parent_tags:
+            text = text.replace("<", "\\<").replace(">", "\\>")
+
         if set(self.root_tags).intersection(parent_tags):
             return text
 

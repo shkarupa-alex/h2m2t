@@ -1,4 +1,6 @@
-from mistune import HTMLRenderer, create_markdown
+from mistune import create_markdown
+
+from h2m2t.markdown import HTMLRendererFixed
 
 
 def markdown_to_html(md: str) -> str:
@@ -28,10 +30,3 @@ def markdown_to_html(md: str) -> str:
     html = markdown(md)
 
     return f'<!doctype html><html><head><meta charset="utf-8"><title></title></head><body>{html}</body></html>'
-
-
-class HTMLRendererFixed(HTMLRenderer):
-    def link(self, text: str, url: str, title: str | None = None) -> str:
-        url = url.replace("%20", " ")
-        url = url.replace("%28", "(").replace("%29", ")")
-        return super().link(text, url, title)
