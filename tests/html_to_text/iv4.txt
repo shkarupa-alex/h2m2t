@@ -392,7 +392,7 @@ function GetPropertyFieldHtml(arProperty, value, $strHTMLControlName)
 
 {
 
-return '<input type="checkbox" name="'
+return '<input type="hidden" name="' . $strHTMLControlName['VALUE'] . '" value="" /><input type="checkbox" name="'
 
 . strHTMLControlName['VALUE'] . '" value="1" ' . (intval(value['VALUE']) ? 'checked="checked"' : '').'/>';
 
@@ -421,7 +421,7 @@ SetPropertyValuesEx и SetPropertyValues легко перепутать. Хор
 
 // сбросить кеш
 
-CACHE\_MANAGER->ClearByTag("iblock\_id\_" . iblockId);
+CACHE\_MANAGER-\>ClearByTag("iblock\_id\_" . iblockId);
 
 События изменения значений
 
@@ -887,7 +887,7 @@ arFields = USER_FIELD_MANAGER->GetUserFields("USER");
 
 // обновить значение UF свойства
 
-USER\_FIELD\_MANAGER->Update('USER', arUser['ID'], array(
+USER\_FIELD\_MANAGER-\>Update('USER', arUser['ID'], array(
 
 'UF_FAVORITE' => $value
 

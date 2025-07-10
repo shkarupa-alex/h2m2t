@@ -950,7 +950,7 @@ DjOnline 23 июля 2012 в 10:37
 
 +1
 
-$name = Input::get('name', function() {return 'Fred';});
+>>$name = Input::get('name', function() {return 'Fred';});
 Вот зачем изобретать велосипед, если и короче и понятнее можно написать
 name=isset(_GET['name'])?$_GET['name'] :'Fred');
 

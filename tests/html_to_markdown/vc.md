@@ -2074,7 +2074,7 @@ Revolut умеет избавляться от конкурентов
 
 [![](data:image/gif;base64,R0lGODlhAQABAJAAAP8AAAAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==)	Станислав Калашников](https://vc.ru/u/132131-stanislav-kalashnikov)
 
-[>>думаю что делать Валить.](https://vc.ru/offline/110218-hosting-provayder-i-registrator-domenov-masterhost-soobshchil-o-zahvate-data-centra-byvshim-sobstvennikom-kompanii?comment=1678296)
+[\>\>думаю что делать Валить.](https://vc.ru/offline/110218-hosting-provayder-i-registrator-domenov-masterhost-soobshchil-o-zahvate-data-centra-byvshim-sobstvennikom-kompanii?comment=1678296)
 
 [Хостинг-провайдер и регистратор…](https://vc.ru/offline/110218-hosting-provayder-i-registrator-domenov-masterhost-soobshchil-o-zahvate-data-centra-byvshim-sobstvennikom-kompanii "Хостинг-провайдер и регистратор доменов «Мастерхост» сообщил о захвате дата-центра бывшим собственником компании")
 
