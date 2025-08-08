@@ -27,6 +27,11 @@ def markdown_to_html(md: str) -> str:
             "spoiler",
         ],
     )
+
+    markdown.block.rules.remove("setex_heading")
+    markdown.block.block_quote_rules.remove("setex_heading")
+    markdown.block.list_rules.remove("setex_heading")
+
     html = markdown(md)
 
     return f'<!doctype html><html><head><meta charset="utf-8"><title></title></head><body>{html}</body></html>'

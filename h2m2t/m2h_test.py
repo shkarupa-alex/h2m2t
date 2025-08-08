@@ -64,3 +64,24 @@ def test_html(case: str) -> None:
         dbg_path.unlink()
 
     assert expected == result
+
+
+def test_setex() -> None:
+    test_path = Path(__file__).resolve().parent.parent / "tests"
+
+    src_html = "Код доступа: 053174  \n\n--  \n======================  \nС уважением, аналитик службы продаж"
+
+    gt_path = test_path / "markdown_to_html" / "setex.html"
+    expected = gt_path.read_text()
+    expected = _prettify_html(expected, "body")
+
+    result = markdown_to_html(src_html)
+    result = _prettify_html(result, "body")
+
+    dbg_path = test_path / "markdown_to_html" / "setex_.html"
+    if result != expected:
+        dbg_path.write_text("\n".join(result))
+    elif dbg_path.exists():
+        dbg_path.unlink()
+
+    assert expected == result
